@@ -5,6 +5,7 @@
 
 int main(){
 	
+	
 	int array[4] = { 1,1,0,1 };
 	int count = 0;
 	double pow_sum = 0;
