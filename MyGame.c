@@ -3,7 +3,6 @@
 
 int main(){
 
-	printf("제품 테스트");
-
+	printf("dddd");
 	return 0;
 }
